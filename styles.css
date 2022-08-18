@@ -1,0 +1,87 @@
+body{
+	background-color: #C1A3A3;
+	font-family: 'Merriweather', serif;
+	text-align: center;
+	padding: 150px;
+}
+
+.h1-name{
+	font-family: 'Sacramento', cursive;
+	color: #6C4A4A;
+	margin: 0 auto  0 auto;
+	font-size: 60px;
+	width: 300px;
+}
+
+.p-about_me{
+	font-family: 'Caveat', cursive;
+	font-size: 30px;
+	color: #6C4A4A;
+	width: 200px;
+	margin: 0 auto 0 auto;
+}
+
+.top-cloud{
+	position: absolute;
+	top: 90px;
+	right: 350px;
+	height: 200px;
+	width: 200px;
+
+}
+
+.bottom-cloud{
+	position: absolute;
+	top: 200px;
+	left: 300px;
+	height: 200px;
+	width: 200px;
+}
+
+.mountain{
+	width: 70%;
+}
+
+.profile{
+	padding-top: 70px;
+}
+
+.footer-link{
+	padding-left: 20px;
+    text-decoration: none;
+}
+
+.gmail-btn{
+	text-decoration: none;
+}
+
+
+.bottom-container{
+	padding-top: 12px;
+}
+
+
+.myprofile{
+	height:  235px;
+	width:  235px;
+}
+
+.skill-profile{
+	height: 235px;
+	width: 235px;
+}
+
+.hobbies{
+	height: 235px;
+	width: 235px;
+}
+
+.qoute{
+	font-size: 18px;
+	letter-spacing: 1px;
+	line-height: 1.5;
+}
+
+.copyright{
+	padding-top: 50px;
+}
